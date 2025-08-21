@@ -1,8 +1,8 @@
 {
   "site": {
     "title": "Konvens 2025 VL Tutorial",
-    "base_url": "https://astroplate.netlify.app",
-    "base_path": "/",
+    "base_url": "https://tib-visual-analytics.github.io",
+    "base_path": "Konvens2025-FusingLanguageWithVision",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo_text": "Konvens 2025"
