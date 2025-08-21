@@ -1,19 +1,14 @@
 {
   "site": {
-    "title": "Astroplate",
+    "title": "Konvens 2025 VL Tutorial",
     "base_url": "https://astroplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
-    "logo_width": "150",
-    "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_text": "Konvens 2025"
   },
-
   "settings": {
-    "search": true,
+    "search": false,
     "sticky_header": true,
     "theme_switcher": true,
     "default_theme": "system",
@@ -21,31 +16,26 @@
     "summary_length": 200,
     "blog_folder": "blog"
   },
-
   "params": {
-    "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "contact_form_action": "mailto:eric.mueller@tib.eu",
+    "copyright": "Designed And Developed by [Research Group Visual Analytics](https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics)"
   },
-
   "navigation_button": {
-    "enable": true,
+    "enable": false,
     "label": "Get Started",
     "link": "https://github.com/zeon-studio/astroplate"
   },
-
   "google_tag_manager": {
     "enable": false,
     "gtm_id": "GTM-XXXXXX"
   },
-
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   },
-
   "metadata": {
-    "meta_author": "zeon.studio",
+    "meta_author": "Research Group Visual Analytics",
     "meta_image": "/images/og-image.png",
     "meta_description": "astro and tailwind boilerplate"
   }
