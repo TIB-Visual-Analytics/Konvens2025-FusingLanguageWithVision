@@ -21,7 +21,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  BUILD_PATH: "/Konvens2025-FusingLanguageWithVision" # default value when not using subfolders
+  BUILD_PATH: "." # default value when not using subfolders
 
 jobs:
   build:
