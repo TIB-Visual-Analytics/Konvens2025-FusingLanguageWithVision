@@ -2,19 +2,19 @@
   "main": [
     {
       "name": "Home",
-      "url": "/"
+      "url": ""
     },
     {
       "name": "Program",
-      "url": "/#program"
+      "url": "#program"
     },
     {
       "name": "Resources",
-      "url": "/#resources"
+      "url": "#resources"
     },
     {
       "name": "Contact",
-      "url": "/#contact"
+      "url": "#contact"
     }
   ],
   "footer": []
