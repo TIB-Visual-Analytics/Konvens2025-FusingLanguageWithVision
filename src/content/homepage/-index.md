@@ -81,6 +81,10 @@ This tutorial will take **half a day** (a total of **4 hours**) and will be pres
 - IntructBLIP: https://huggingface.co/spaces/hysts/InstructBLIP 
 - GLM 4.5VL: https://chat.z.ai/ 
 
+**Jupyter Notebook on Ollama**: https://colab.research.google.com/drive/1SuUxHVAewvT-rMJr-dz5LnlEFCDxArV6
+
+
+
 **Tasks**
 
 1. Pick several tasks from the MMBench benchmark dataset and assess the quality of results!
