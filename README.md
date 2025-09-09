@@ -69,7 +69,6 @@ This tutorial will take **half a day** (a total of **3 hours plus breaks**) and 
 
 - [Classification and Retrieval using CLIP](https://colab.research.google.com/drive/1tDwBohNyz0mE7xKAAgScNpJrQEU1rmZc)
 - [Finetuning CLIP with LoRA](https://colab.research.google.com/drive/1HVf9xsvJsoN4_CHxwZxqaAQynYT2L69F)
-- [Introduction to LVLMs - Part 1](https://colab.research.google.com/drive/1_SpK4UPEanaOXJFiE03R9jPEg_li6hR6)
-- [Introduction to LVLMs - Part 2](https://colab.research.google.com/drive/1IbNjKhtpOcdN3rpUmYgDC_6vkPxZTGdO)
+- [Introduction to LVLMs](https://colab.research.google.com/drive/1SuUxHVAewvT-rMJr-dz5LnlEFCDxArV6)
 
 
