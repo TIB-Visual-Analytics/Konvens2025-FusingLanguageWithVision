@@ -45,7 +45,7 @@ This tutorial will take **half a day** (a total of **4 hours**) and will be pres
 
 **Classification Tasks**
 
-1. What happens if the image shows a concepts that is not in the dictionary?
+1. What happens if the image only show concepts that are not in the dictionary?
 2. Experiment with negative prompts alongside positive prompts, e.g., “not a photo of a cat”, “photo of a dog” 
 3. Experiment with synonymous prompts, e.g., “a photo of a cat”, “a photo of a kitty”
 4. Experiment with prompts with visual attributes, e.g., “a red car”, “a black car”
@@ -62,6 +62,7 @@ This tutorial will take **half a day** (a total of **4 hours**) and will be pres
    1. Do the results improve?
    2. Can these act as a filter for the search results?
 4. What can we do to improve search results and explainability?
+5. Check out our demos *iART* (https://iart.vision) and *iPatent* (https://service.tib.eu/ipatent)
 
 **Domain Adaptation**
 [Finetuning CLIP with LoRA](https://colab.research.google.com/drive/1HVf9xsvJsoN4_CHxwZxqaAQynYT2L69F)
@@ -75,8 +76,8 @@ This tutorial will take **half a day** (a total of **4 hours**) and will be pres
 #### Demo Session on Large Vision-Language Models (LVLMs)
 
 **Links to LVLMs**
-- Qwen2.5-VL: https://huggingface.co/spaces/mrdbourke/Qwen2.5-VL-Instruct-Demo
-- InternVL: https://huggingface.co/spaces/OpenGVLab/InternVL 
+- Qwen2.5-VL: https://huggingface.co/spaces/Qwen/Qwen2.5-VL-72B-Instruct
+- InternVL: https://huggingface.co/spaces/OpenGVLab/InternVL \**seems to be down today :(*
 - IntructBLIP: https://huggingface.co/spaces/hysts/InstructBLIP 
 - GLM 4.5VL: https://chat.z.ai/ 
 
@@ -102,7 +103,8 @@ This tutorial will take **half a day** (a total of **4 hours**) and will be pres
 
 #### Demo Session on TIB AV-Analytics (TIB-AV-A)
 
-Link to TIB AV-Analytics: https://service.tib.eu/tibava
+Link to **TIB AV-Analytics**: https://service.tib.eu/tibava
+Example videos: https://tib.eu/cloud/s/Jyj3spaGmtHZ32z 
 
 ### Discussion and Closing Session
 
