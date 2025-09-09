@@ -91,12 +91,35 @@ This tutorial will take **half a day** (a total of **4 hours**) and will be pres
 
 ### 16:00 - 17:30 Generative AI and Video Analysis
 
-- **Generative AI**
-    - From Large Language Models (LLMs) to Large Vision-language Models (LVLMs)/Multimodal LLMs (MLLMs)
-    - Foundations, use cases, and benchmarks of MLLMs
-- **Demo Session**
-- **From Images to Videos**
-- **TIB AV-Analytics (TIB-AV-A)**
+#### Generative AI**
+- From Large Language Models (LLMs) to Large Vision-language Models (LVLMs)/Multimodal LLMs (MLLMs)
+- Foundations, use cases, and benchmarks of MLLMs
+
+#### Demo Session on Large Vision-Language Models (LVLMs)
+
+*Tasks*
+
+1. Pick several tasks from the MMBench benchmark dataset and assess the quality of results!
+2. Compare multiple LVLMs such as InstructBLIP, Qwen2.5-VL, and InternVL!
+3. Compare the results for various prompt types!
+  - What are the advantages and disadvantages of the prompt types?
+  - Try multiple choice prompts but change the order of the options. What do you notice?
+4. Try to extract overlaid text from images using LVLMs!
+  - How would you rate the quality of the output? 
+  - Can you extract equations from lecture videos? 
+  - Try using the overlaid text as additional context for task 1!
+5. Try to extract structured information from data visualizations (e.g., bar charts) with LVLMs!
+
+#### From Images to Videos**
+
+- Temporal Pooling
+- X-CLIP
+- Video Transformers
+- Video LLMs
+
+#### Demo Session on TIB AV-Analytics (TIB-AV-A)**
+
+Link to TIB AV-Analytics: https://service.tib.eu/tibava
 
 ### 17:30 - 18:00 Discussion and Closing Session
 
