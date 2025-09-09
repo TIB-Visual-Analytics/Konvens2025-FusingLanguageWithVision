@@ -4,7 +4,11 @@
     "base_url": "https://tib-visual-analytics.github.io",
     "base_path": "Konvens2025-FusingLanguageWithVision",
     "trailing_slash": false,
+<<<<<<< HEAD
     "favicon": "images/favicon.png",
+=======
+    "favicon": "Konvens2025-FusingLanguageWithVision/images/favicon.png",
+>>>>>>> b62784b (fixed favion path)
     "logo_text": "Konvens 2025"
   },
   "settings": {
