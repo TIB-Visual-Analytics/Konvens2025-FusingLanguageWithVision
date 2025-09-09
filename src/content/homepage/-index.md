@@ -74,6 +74,12 @@ This tutorial will take **half a day** (a total of **4 hours**) and will be pres
 
 #### Demo Session on Large Vision-Language Models (LVLMs)
 
+**Links to LVLMs**
+- Qwen2.5-VL: https://huggingface.co/spaces/mrdbourke/Qwen2.5-VL-Instruct-Demo
+- InternVL: https://huggingface.co/spaces/OpenGVLab/InternVL 
+- IntructBLIP: https://huggingface.co/spaces/hysts/InstructBLIP 
+- GLM 4.5VL: https://chat.z.ai/ 
+
 **Tasks**
 
 1. Pick several tasks from the MMBench benchmark dataset and assess the quality of results!
