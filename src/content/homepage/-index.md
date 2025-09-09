@@ -3,7 +3,7 @@
 banner:
   title: "Fusing Vision and Language"
   subtitle: "A Tutorial on Vision-Language Models for Multimodal Content Analysis"
-  image: "/images/banner.png"
+  image: ""
 ---
 
 ## Summary
