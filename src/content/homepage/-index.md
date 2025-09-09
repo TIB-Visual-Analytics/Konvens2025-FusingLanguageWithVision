@@ -9,7 +9,7 @@ banner:
 ## Summary
 The increasing availability of multimodal data, including images and videos, has led to a surge of interest in multimodal models that combine visual and textual information. This tutorial will provide an in-depth introduction to the latest advances in multimodal models, with a focus on large vision-language models. Through a combination of theoretical explanations, code demonstrations, and hands-on exercises, participants will learn how to apply these models to a range of image and video analysis tasks, including image captioning, visual concept detection, and image retrieval. By the end of the tutorial, attendees will have a solid understanding of the strengths and limitations of these models, enabling them to implement their own multimodal applications.
 
-## Programm
+## Program
 
 This tutorial will take **half a day** (a total of **4 hours**) and will be presented **in person**. The tutorial slides can be found [here](https://docs.google.com/presentation/d/1ATnXBuYWkKQ7Oba0ItJAnU5ex9jbJpTK/edit?usp=sharing&ouid=105794554671820119952&rtpof=true&sd=true), and all associated notebooks are listed at the bottom of the page.
 
