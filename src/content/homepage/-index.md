@@ -62,7 +62,28 @@ This tutorial will take **half a day** (a total of **4 hours**) and will be pres
 
 #### Tasks
 
-Task 1: 
+**Classification Tasks**
+
+1. What happens if the image shows a concepts that is not in the dictionary?
+2. Experiment with negative prompts alongside positive prompts
+  e.g. “not a photo of a cat”, “photo of a dog” 
+3. Experiment with synonymous prompts
+  e.g. “a photo of a cat”, “a photo of a kitty”
+4. Experiment with prompts with visual attributes
+  e.g. “a red car”, “a black car”
+
+**Retrieval Tasks**
+
+1. Retrieve images based on 3-5 query images
+- Are the results meaningful?
+- What kind of similarity do you think CLIP is measuring?
+2. Retrieve images using ~5 simple prompts (This is a photo of <class>)
+- How would you rate the results? 
+- Are the results intuitive and explainable?
+3. Try to formulate more advanced prompts, e.g., by adding a short description of the concept
+- Do the results improve?
+- Can these act as a filter for the search results?
+4. What can we do to improve search results and explainability?
 
 
 **Domain Adaptation**
